@@ -6,7 +6,7 @@ import Peer from 'simple-peer';
 const SocketContext = createContext();
 
 // const socket = io(');
-const socket = io('http://localhost:5000');
+const socket = io('https://video-chat-65z2.onrender.com');
 
 const ContextProvider = ({ children }) => {
   const [callAccepted, setCallAccepted] = useState(false);
