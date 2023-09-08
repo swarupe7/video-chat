@@ -1,0 +1,25 @@
+{
+  "short_name": "videoX",
+  "name": "One to One video Call App",
+  "icons": [
+    {
+      "src": "https://i.pinimg.com/564x/18/5c/08/185c0819d942ded39a9b9ad3fa7d0ffb.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://i.pinimg.com/564x/18/5c/08/185c0819d942ded39a9b9ad3fa7d0ffb.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.pinimg.com/564x/18/5c/08/185c0819d942ded39a9b9ad3fa7d0ffb.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
